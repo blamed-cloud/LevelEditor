@@ -1,0 +1,17 @@
+Level Editor
+------------
+Created by: Denver Woodward
+
+to run, execute the file level_editor_3d.py
+
+syntax:
+
+to overwrite the file <filename>:
+level_editor_3d.py -f <filename>
+
+to edit the level in <filename>:
+level_editor_3d.py -e -f <filename>
+
+example:
+
+level_editor_3d.py -e -f level1-1.xml
