@@ -1,9 +1,9 @@
 #!/usr/bin/python
 #level_editor_3d.py
 ###USAGE### level_editor.py -f <file_name> [-e]; sms=N ; $#=1
-import matrix_lib
-import prgm_lib
 import sys
+import PythonLibraries.matrix_lib as matrix_lib
+import PythonLibraries.prgm_lib as prgm_lib
 try_get_value = matrix_lib.try_get_value
 import xml.etree.ElementTree as ET
 re_mk=prgm_lib.flag_re_mk
