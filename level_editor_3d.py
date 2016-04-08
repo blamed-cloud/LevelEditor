@@ -272,7 +272,7 @@ def level_edit(matrix, default = "  "):
 		arrow = 0
 	return matrix
 		
-mario_mappings = {"up":"UpwardGreenPipe", "mm":"Mario", "ci":"CoinItem", "fi":"FireFlowerItem", "mi":"MushroomItem", "oi":"OneUpItem", "si":"StarItem", "ge":"Goomba", "ke":"Koopa", "bb":"BrickBlock", "fb":"FloorBlock", "hb":"HiddenBlock", "qb":"QuestionBlock", "wb":"WallBlock", "tt":"TripleTree", "st":"SingleTree", "tc":"TripleCloud", "sc":"SingleCloud", "bh":"BigHill", "sh":"SmallHill", "sp":"UpwardGreenSectionPipe", "MQ":"MushroomQuestionBlock", "OH":"OneUpHiddenBlock", "CB":"CoinBrickBlock", "SH":"StarHiddenBlock"}
+mario_mappings = {"up":"UpwardGreenPipe", "mm":"Mario", "ci":"CoinItem", "fi":"FireFlowerItem", "mi":"MushroomItem", "oi":"OneUpItem", "si":"StarItem", "ge":"Goomba", "ke":"Koopa", "bb":"BrickBlock", "fb":"FloorBlock", "hb":"HiddenBlock", "qb":"QuestionBlock", "wb":"WallBlock", "tt":"TripleTree", "st":"SingleTree", "tc":"TripleCloud", "sc":"SingleCloud", "bh":"BigHill", "sh":"SmallHill", "sp":"UpwardGreenSectionPipe", "MQ":"MushroomQuestionBlock", "OH":"OneUpHiddenBlock", "CB":"CoinBrickBlock", "SH":"StarHiddenBlock", "lp":"LeftGreenPipe", "ff":"Flagpole"}
 
 background_objects = ["tt", "TripleTree", "st", "SingleTree", "tc", "TripleCloud", "sc", "SingleCloud", "bh", "BigHill", "sh", "SmallHill"]
 
